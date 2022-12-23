@@ -10,7 +10,7 @@
 - 💞️ I’m looking to collaborate on multiple projects that are offered!
 
 
-- 📫 How to reach me:
+- 📫 How to reach me:/n
   At this moment, I am unreachable, but you can contact <a href="https://github.com/itsjustyryr">my assistant</a>!
 
 Thank you for taking your time to read my README.md file
